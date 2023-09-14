@@ -1,0 +1,122 @@
+[
+    {
+      "id": 1,
+      "name": "Karim Benzema",
+      "age": 33,
+      "style": "Striker",
+      "salary": 300000,
+      "image": "https://i.ibb.co/kH0nyJ5/BENZEMA-AV38083-002-Thumb.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Sergio Ramos",
+      "age": 35,
+      "style": "Defender",
+      "salary": 250000,
+      "image": "https://i.ibb.co/K0NjPV1/RAMOS-FICHA-550-X650-Thumb.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Luka Modric",
+      "age": 36,
+      "style": "Midfielder",
+      "salary": 280000,
+      "image": "https://i.ibb.co/1XP9kBd/p37055-t186-2022-0-001-000.png"
+    },
+    {
+      "id": 4,
+      "name": "Thibaut Courtois",
+      "age": 29,
+      "style": "Goalkeeper",
+      "salary": 200000,
+      "image": "https://i.ibb.co/S6r2QPy/COURTOIS-380x501-Thumb.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Carvajal",
+      "age": 31,
+      "style": "Defender",
+      "salary": 150000,
+      "image": "https://i.ibb.co/CHWTfr3/CARVAJAL-380x501-Thumb.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Casemiro",
+      "age": 29,
+      "style": "Midfielder",
+      "salary": 220000,
+      "image": "https://i.ibb.co/KmhNgKM/CASEMIROThumb.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Vinicius Jr.",
+      "age": 21,
+      "style": "Forward",
+      "salary": 180000,
+      "image": "https://i.ibb.co/nLP79Xw/p246333-t186-2023-1-003-000.png"
+    },
+    {
+      "id": 8,
+      "name": "Eder Militao",
+      "age": 23,
+      "style": "Defender",
+      "salary": 140000,
+      "image": "https://i.ibb.co/m00YjB0/MILITAO-380x501-Thumb.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Toni Kroos",
+      "age": 31,
+      "style": "Midfielder",
+      "salary": 250000,
+      "image": "https://i.ibb.co/d2ZpT6k/KROOS-380x501-Thumb.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Cristiano Ronaldo",
+      "age": 37,
+      "style": "Forward",
+      "salary": 980000,
+      "image": "https://i.ibb.co/j5Gt98L/69b4e8cb43a5eff3f7a07f3ed80c07ff.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Marcelo",
+      "age": 33,
+      "style": "Defender",
+      "salary":180000,
+      "image": "https://i.ibb.co/b1R3RzZ/Marcelo-380x501.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Rodrygo Goes",
+      "age": 20,
+      "style": "Forward",
+      "salary": 120000,
+      "image": "https://i.ibb.co/KsJxvLm/RODRYGO-380x501-Thumb.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Federico Valverde",
+      "age": 23,
+      "style": "Midfielder",
+      "salary": 160000,
+      "image": "https://i.ibb.co/Dfxvx6K/e57fa52d63fed70db1f24e82f1ae40ef.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Nacho Fernandez",
+      "age": 31,
+      "style": "Defender",
+      "salary": 140000,
+      "image": "https://i.ibb.co/VgSzgTB/NACHO-380x501-Thumb.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Jude Bellingham",
+      "age": 29,
+      "style": "Midfielder",
+      "salary": 200000,
+      "image": "https://i.ibb.co/ZB10F7p/BELLINGHAM-380x501-Thumb.jpg"
+    }
+  ]
